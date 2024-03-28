@@ -1,0 +1,14 @@
+.Block{
+  width: 100px;
+  height: 100px;
+  border: 3px solid black;
+  background-size: cover;
+  display: inline-block;
+}
+
+.mark1{
+  background-image: url('images/cross.jpg');
+}
+.mark2{
+  background-image: url('images/circle.png');
+}
